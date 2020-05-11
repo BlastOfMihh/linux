@@ -1,2 +1,4 @@
 setxkbmap -option caps:escape;
-redshift -x; redshift -O 1200 1200
+redshift -x; redshift -O 1400 1400;
+xset -b;
+
